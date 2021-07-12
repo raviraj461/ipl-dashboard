@@ -1,0 +1,175 @@
+.App {
+  background-color: ghostwhite;
+}
+.banner-page {
+  background-color: #19388a;
+  color: #4f91cd;
+}
+
+.banner-link{
+  padding-top: 10%;
+  text-align: center;
+}
+
+
+	.Bangalore {
+		padding: 1px;
+		border: 1px solid #D01C1F;
+		box-shadow:  -1px 1px #D01C1F,
+			-2px 2px #D01C1F,
+			-3px 3px #D01C1F,
+			-4px 4px #D01C1F,
+			-5px 5px #D01C1F;
+	}
+
+	.Mumbai {
+		padding: 1px;
+		border: 1px solid #004BA0;
+		border-top-color: #D1AB3E;
+		border-right-color: #D1AB3E;
+		box-shadow:  -1px 1px #004BA0,
+			-2px 2px #004BA0,
+			-3px 3px #004BA0,
+			-4px 4px #004BA0,
+			-5px 5px #004BA0;
+
+	}
+
+	.Chennai {
+		padding: 1px;
+		border: 1px solid #004BA0;
+		border-top-color: #F15C19;
+		border-right-color: #F15C19;
+		box-shadow:  -1px 1px #F9CD05,
+			-2px 2px #F9CD05,
+			-3px 3px #F9CD05,
+			-4px 4px #F9CD05,
+			-5px 5px #F9CD05;
+
+	}
+
+	.Punjab {
+		padding: 1px;
+		border: 1px solid #ED1B24;
+		border-top-color: #DCDDDF;
+		border-right-color: #DCDDDF;
+		box-shadow:  -1px 1px #ED1B24,
+			-2px 2px #ED1B24,
+			-3px 3px #ED1B24,
+			-4px 4px #ED1B24,
+			-5px 5px #ED1B24;
+
+	}
+
+	.Gujarat {
+		padding: 1px;
+		border: 1px solid #E04F16;
+		border-top-color: #18089C;
+		border-right-color: #18089C;
+		box-shadow:  -1px 1px #E04F16,
+			-2px 2px #E04F16,
+			-3px 3px #E04F16,
+			-4px 4px #E04F16,
+			-5px 5px #E04F16;
+
+	}
+
+	.Pune {
+		padding: 1px;
+		border: 1px solid #D11D9B;
+		border-top-color: #2C04A2;
+		border-right-color: #FFDD53;
+		box-shadow:  -1px 1px #D11D9B,
+			-2px 2px #D11D9B,
+			-3px 3px #D11D9B,
+			-4px 4px #D11D9B,
+			-5px 5px #D11D9B;
+
+	}
+
+	.Kochi {
+		padding: 1px;
+		border: 1px solid #004BA0;
+		border-top-color: #03B3DC;
+		border-right-color: #03B3DC;
+		box-shadow:  -1px 1px #7F3F98,
+			-2px 2px #7F3F98,
+			-3px 3px #7F3F98,
+			-4px 4px #7F3F98,
+			-5px 5px #7F3F98;
+
+	}
+
+	.Royals {
+		padding: 1px;
+		border: 1px solid #004BA0;
+		border-top-color: #D1AB3E;
+		border-right-color: #D1AB3E;
+		box-shadow:  -1px 1px #004BA0,
+			-2px 2px #004BA0,
+			-3px 3px #004BA0,
+			-4px 4px #004BA0,
+			-5px 5px #004BA0;
+
+	}
+
+	.Deccan {
+		padding: 1px;
+		border: 1px solid #004BA0;
+		border-top-color: #AE0B2C;
+		border-right-color: #AE0B2C;
+		box-shadow:  -1px 1px #D5D6D0,
+			-2px 2px #D5D6D0,
+			-3px 3px #D5D6D0,
+			-4px 4px #D5D6D0,
+			-5px 5px #D5D6D0;
+
+	}
+
+	.Hyderabad{
+		padding: 1px;
+		border: 1px solid #FF8C00;
+		box-shadow:  -1px 1px #FF8C00,
+			-2px 2px #FF8C00,
+			-3px 3px #FF8C00,
+			-4px 4px #FF8C00,
+			-5px 5px #FF8C00;
+	}
+
+	.Capitals{
+		padding: 1px;
+		border: 1px solid #282968; 
+		border-top-color: #D71921;
+		border-right-color: #D71921;
+		box-shadow:  -1px 1px #282968,
+			-2px 2px #282968,
+			-3px 3px #282968,
+			-4px 4px #282968,
+			-5px 5px #282968;
+	}
+
+	.Knight {
+		padding: 1px;
+		border: 1px solid #004BA0;
+		border-top-color: #D1AB3E;
+		border-right-color: #D1AB3E;
+		box-shadow:  -1px 1px #004BA0,
+			-2px 2px #004BA0,
+			-3px 3px #004BA0,
+			-4px 4px #004BA0,
+			-5px 5px #004BA0;
+
+	}
+	
+	.Daredevils {
+		padding: 1px;
+		border: 1px solid #004BA0;
+		border-top-color: #2561AE;
+		border-right-color: #2561AE;
+		box-shadow:  -1px 1px #282968,
+			-2px 2px #282968,
+			-3px 3px #282968,
+			-4px 4px #282968,
+			-5px 5px #282968;
+
+	}
