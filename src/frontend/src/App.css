@@ -12,6 +12,12 @@
 }
 
 
+	.Bangalore.image{
+		width: 50px;
+		height: 50px;
+		content: url(/logos/Bangalore.jpeg);
+	}
+
 	.Bangalore {
 		padding: 1px;
 		border: 1px solid #D01C1F;

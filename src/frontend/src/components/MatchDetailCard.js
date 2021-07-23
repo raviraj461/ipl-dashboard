@@ -45,8 +45,9 @@ export const MatchDetailCard = ({teamName, match}) => {
 								otherTeam === "N/A" ? " " : "vs "
 							} 								
 							</span> &nbsp;
-							<Link to={otherTeamRout}>{otherTeam}</Link></h2>
-
+							<Link to={otherTeamRout}>{otherTeam}</Link>
+						 </h2>
+						<div className="image"/>
 						<h3>
 							{
 								otherTeam === "N/A" ? " " : "on "
